@@ -1,0 +1,1 @@
+Exemplo de aplicativo simples em python para usar o Docker no modo interativo, pelo terminal.
